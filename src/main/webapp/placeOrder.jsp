@@ -69,9 +69,9 @@
         <div>
             <h4 class="font-semibold mb-2">Quick Links</h4>
             <ul class="space-y-1">
-                <li><a href="customerViewParts" class="hover:underline">Spare Parts</a></li>
-                <li><a href="viewOrders" class="hover:underline">My Orders</a></li>
-                <li><a href="contact.jsp" class="hover:underline">Contact Us</a></li>
+                <li><a href="#" class="hover:underline">Spare Parts</a></li>
+                <li><a href="#" class="hover:underline">My Orders</a></li>
+                <li><a href="#" class="hover:underline">Contact Us</a></li>
             </ul>
         </div>
         <div>

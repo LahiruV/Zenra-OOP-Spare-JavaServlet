@@ -18,7 +18,7 @@
 <!-- Sidebar -->
 <aside class="w-64 bg-gray-900 text-white flex flex-col">
     <!-- same as add_part.jsp sidebar -->
-    <div class="p-6 font-bold text-xl border-b border-gray-700">Zenra Technologies</div>
+    <div class="p-6 font-bold text-xl border-b border-gray-700">Zenra Spare Parts</div>
     <nav class="flex-1 p-4 space-y-2">
         <a href="viewUsers" class="flex items-center px-3 py-2 rounded hover:bg-gray-700">
             <span class="material-icons mr-2">group</span> User Dashboard
